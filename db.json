@@ -1,16 +1,149 @@
 {
-  "posts":[
+  "posts": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "user_id": 1,
+      "title": "AQSH da kuchli bo‘ron 35 kishining hayotiga zomin bo‘ldi",
+      "user_name": "Muhammadbek Jo'rabekov",
+      "body": "Yakshanba kuni AQSHning Sharqiy qirg‘og‘i, Texas va Vashington shtatlarida 200 mingdan ortiq uy va korxona elektr energiyasidan mahrum bo‘ldi. PowerOutage.us ma’lumotlariga ko‘ra,  bir kun avval shanba kuni 1,8 million odam elektrsiz qolgan. Rasmiylarning aytishicha, Buffaloda yakshanba kuni aholining 16 foizi elektrsiz qolgan. \n\n",
+      "created_at": {
+        "date": "26.12.2022, 15:43"
+      },
+      "id": 1
+    },
+    {
+      "user_id": 2,
+      "title": "Davlat test markazi tugatilmoqda",
+      "body": "\n\n\n\nDavlat test markazi (1994–2022 yillar) tugatilmoqda. Uning o‘rniga 2023 yil 1 yanvardan “Bilim va malakalarni baholash agentligi” o‘z ishini boshlaydi. Bu haqda DTM matbuot xizmati xabar berdi.\n\nUshbu agentlik Oliy va O‘rta maxsus ta’lim vazirligi negizida Oliy ta’lim fan va innovatsiyalar vazirligiga qarashli tashkilotga aylanadi.\n\nShuningdek, Oliy va o‘rta maxsus ta’lim vazirligi negizida Oliy ta’lim, fan va innovatsiyalar vazirligi tashkil etilmoqda.",
+      "user_name": "Ali Valiyev",
+      "created_at": {
+        "date": "26.12.2022, 15:50"
+      },
+      "id": 2
+    },
+    {
+      "user_id": 3,
+      "title": "Xitoyda bir kunda 37 million kishi koronavirusga chalindi",
+      "body": "Xitoyda bir sutka ichida 37 mln kishi koronavirusga chalinganligi aytilmoqda. Bu haqda Bloomberg nashri xabar berdi.\n\nXitoy Milliy sog‘liqni saqlash komissiyasining yopiq yig‘ilishida koronavirus bilan kasallanish bo‘yicha statistik ma’lumotlar e’lon qilingan. Yig‘ilish bayonnomasiga ko‘ra,  bir kun ichida Xitoyda 37 million odam koronavirus yuqtirgan. Umumiy hisobda dekabr oyining birinchi 20 kunida mamlakatda 248 million kishida kasallik aniqlangan.\n\nShuningdek, bayonnomada virusdan vafot etganlar soni to‘g‘risida ma’lumotlar ko‘rsatilmagan.\n\nMamlakatda kasallanishlar sonining oshib ketishiga yaqinda Pekinda karantin cheklovlarini ancha yengilashtirilishi sababligi aytilmoqda. Bu esa tabiiy immuniteti past xitoyliklar orasida o‘ta yuqumli omikron shtammining keng tarqalishiga olib kelgan",
+      "user_name": "Czn Burak",
+      "created_at": {
+        "date": "26.12.2022, 15:52"
+      },
+      "id": 3
+    },
+    {
+      "user_id": 4,
+      "title": "dddd",
+      "body": "g",
+      "user_name": "mmm fffff",
+      "created_at": {
+        "date": "26.12.2022, 16:01"
+      },
+      "id": 4
+    },
+    {
+      "user_id": 4,
+      "title": "hjkjhg",
+      "body": "fhghg",
+      "user_name": "mmm fffff",
+      "created_at": {
+        "date": "26.12.2022, 16:02"
+      },
+      "id": 5
+    },
+    {
+      "user_id": 5,
+      "title": "Posts",
+      "body": "Create postssss",
+      "user_name": "Bek Jons",
+      "created_at": {
+        "date": "26.12.2022, 16:27"
+      },
+      "id": 6
+    },
+    {
+      "user_id": 15,
+      "title": "“My name is Kylian”: Mbappé, and now the comic strip",
+      "body": "After winning the Nations League with the France team last Sunday, Kylian Mbappé has, at 22, an even more unique track record. But the PSG striker will soon shine on a new ground, that of the graphic novel. On November 12, the comic strip “My name is Kylian” will be released, which he produced with the designer Faro.",
+      "user_name": "Kylian Mbappe",
+      "created_at": {
+        "date": "30.12.2022, 18:26"
+      },
+      "id": 7
+    },
+    {
+      "user_id": 16,
+      "title": "GARVARD UNIVERSITETI HAQIDA SIZ BILMAGAN FAKTLAR",
+      "body": "Uning bitiruvchilari orasida AQShning sakkiz prezidenti va 188 milliarderi ham bor, bu har qanday universitetlar orasida eng ko’p ko`rsatkichlardan biridir. O’n to’rtta Tyuring mukofoti sovrindorlari Harvard filiallari bo’lgan. Talabalar va bitiruvchilar 10 ta Akademiya mukofoti, 48 ta Pulitser mukofoti va 110 ta Olimpiada medalini (46 ta oltin) qoʻlga kiritganlar va ular koʻplab taniqli kompaniyalarga asos soldi.",
+      "user_name": "Bek Uz",
+      "created_at": {
+        "date": "30.12.2022, 19:09"
+      },
+      "id": 8
     }
   ],
-  "comments" : [
+  "users": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "email": "a@gmail.com",
+      "password": "$2a$10$yZuDylxVTQLtKcMOaK.m/.Y2Q/CF3EmSCeDxo402t3SeKkemLQ53O",
+      "firstname": "Muhammadbek",
+      "lastname": "Jo'rabekov",
+      "id": 1
+    },
+    {
+      "email": "vali@v.gmail.com",
+      "password": "$2a$10$JnCI8TqlOpmGOp0yA0Mwo.ETjmj1DBFeR.9jzmnuUBJoUZWF7ANXK",
+      "firstname": "Ali",
+      "lastname": "Valiyev",
+      "id": 2
+    },
+    {
+      "email": "burak@gmail.com",
+      "password": "$2a$10$qI3GRiZkM1BAuYkkOk2hse/asWx.MpDzgWy64nGyC6chmMZDWmFwe",
+      "firstname": "Czn",
+      "lastname": "Burak",
+      "id": 3
+    },
+    {
+      "email": "maxmud@gmail.com",
+      "password": "$2a$10$hyC4o/vc0HmtknwSQ7RIie2CYy7LTdKJWoOFwIYo7EYbE/qhKWZCi",
+      "firstname": "mmm",
+      "lastname": "fffff",
+      "id": 4
+    },
+    {
+      "email": "jon@gmail.com",
+      "password": "$2a$10$krBRDD4T.7dBgS54rKrvQOTnHGgE.LV4NQpL1IgnkvxbIXoBVqhXe",
+      "firstname": "Bek",
+      "lastname": "Jons",
+      "id": 5
+    },
+    {
+      "email": "tester@gmail.com",
+      "password": "$2a$10$tT9P65kF4qsCXySqgA4rluFOAOSA49.gLxeD2GDIKDDTi89F1QCQm",
+      "firstname": "",
+      "lastname": "",
+      "id": 6
+    },
+    {
+      "email": "jons@gmail.com",
+      "password": "$2a$10$ylC/0BaJ0ce5IJfSY/9Us.sAIliabDLx/ffrqwnBkD7vCU1aKhHKy",
+      "firstname": "Glid",
+      "lastname": "Johnson",
+      "id": 7
+    },
+    {
+      "email": "chan@gmail.com",
+      "password": "$2a$10$zo3LMEBQsg5jYFgxvp2CHe3B.3JjNK3cEZQZ6OnJ80MRh5fhbtzrS",
+      "firstname": "Jackie ",
+      "lastname": "Chan",
+      "id": 14
+    },
+    {
+      "email": "mbappe@gmail.com",
+      "password": "$2a$10$Qxh7Z9tztYQ1Wq4Nlc31pOI5SgfaOr7VvPViMzaYhhN8YkeBoCW2q",
+      "firstname": "Kylian",
+      "lastname": "Mbappe",
+      "id": 15
     }
   ]
 }
